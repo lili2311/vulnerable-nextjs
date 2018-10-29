@@ -13,7 +13,7 @@
   "dependencies": {
     "body-parser": "1.8.4",
     "compression": "1.6.2",
-    "express": "4.8.4",
+    "express": "4.9.0",
     "express-session": "1.14.2",
     "lodash": "4.17.4",
     "moment": "2.17.1",
